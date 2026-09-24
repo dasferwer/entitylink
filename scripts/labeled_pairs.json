@@ -1,0 +1,114 @@
+[
+  {
+    "left": {
+      "name": "Северный ветер",
+      "address": "Москва Полевая 5",
+      "phone": "89991234567"
+    },
+    "right": {
+      "name": "Северный ветар",
+      "address": "Москва Полевая 5",
+      "phone": "+79991234567"
+    },
+    "duplicate": true
+  },
+  {
+    "left": {
+      "name": "Компания А",
+      "tax_id": "1234567890"
+    },
+    "right": {
+      "name": "Компания Б",
+      "tax_id": "1234567890"
+    },
+    "duplicate": true
+  },
+  {
+    "left": {
+      "name": "Компания А",
+      "tax_id": "1234567890"
+    },
+    "right": {
+      "name": "Компания А",
+      "tax_id": "9876543210"
+    },
+    "duplicate": false
+  },
+  {
+    "left": {
+      "name": "Ромашка",
+      "address": "Омск Лесная 1"
+    },
+    "right": {
+      "name": "Ромашка",
+      "address": "Тула Мира 20"
+    },
+    "duplicate": false
+  },
+  {
+    "left": {
+      "name": "Вектор"
+    },
+    "right": {
+      "name": "Вектор"
+    },
+    "duplicate": false
+  },
+  {
+    "left": {
+      "name": "Маяк",
+      "phone": "11111111111"
+    },
+    "right": {
+      "name": "Полюс",
+      "phone": "11111111111"
+    },
+    "duplicate": false
+  },
+  {
+    "left": {
+      "name": "ООО Пример",
+      "address": "Тула Мира 1",
+      "phone": "89995551122"
+    },
+    "right": {
+      "name": "Пример ООО",
+      "address": "Тула Мира 1",
+      "phone": "79995551122"
+    },
+    "duplicate": true
+  },
+  {
+    "left": {
+      "name": "Юг Сервис",
+      "address": "Тула Мира 1"
+    },
+    "right": {
+      "name": "Юг Сервис",
+      "address": "Тула Мира 1"
+    },
+    "duplicate": true
+  },
+  {
+    "left": {
+      "name": "Снежный дом",
+      "phone": "89991112233"
+    },
+    "right": {
+      "name": "Снежный дом",
+      "phone": "79991112233"
+    },
+    "duplicate": true
+  },
+  {
+    "left": {
+      "name": "Север",
+      "tax_id": "1111111111"
+    },
+    "right": {
+      "name": "Север",
+      "tax_id": "2222222222"
+    },
+    "duplicate": false
+  }
+]
